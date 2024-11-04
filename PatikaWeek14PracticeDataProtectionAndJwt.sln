@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatikaWeek14PracticeDataProtectionAndJwt", "PatikaWeek14PracticeDataProtectionAndJwt\PatikaWeek14PracticeDataProtectionAndJwt.csproj", "{6D981BF6-89E2-4350-93A1-7282142885BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D981BF6-89E2-4350-93A1-7282142885BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D981BF6-89E2-4350-93A1-7282142885BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D981BF6-89E2-4350-93A1-7282142885BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D981BF6-89E2-4350-93A1-7282142885BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D5614DA-9D15-400E-AE5D-E43BD9F86F51}
+	EndGlobalSection
+EndGlobal
